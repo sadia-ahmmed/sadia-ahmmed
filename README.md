@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sadia-ahmmed
+- 👋 Hi, I’m @sadia-ahmmed a CSE student at United International University 
+- 💞️ My skills include HTML, CSS, C and JAVA
 - 👀 I’m interested in problem solving in C++ and coding in JAVA,
 - 🌱 I’m currently learning C++ and  Java 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahmmed201146@bscse.uiu.ac.bd
 
 <!---
