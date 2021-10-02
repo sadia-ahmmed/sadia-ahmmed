@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadia-ahmmed
-- 👀 I’m interested in problem solving in C++ and coding in JAVA, FLUTTER.
-- 🌱 I’m currently learning C++, Java and flutter
+- 👀 I’m interested in problem solving in C++ and coding in JAVA,
+- 🌱 I’m currently learning C++ and  Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahmmed201146@bscse.uiu.ac.bd
 
