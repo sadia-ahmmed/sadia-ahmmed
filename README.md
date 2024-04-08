@@ -21,7 +21,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia-ahmmed&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia-ahmmed&theme=algolia" alt="sadia-ahmmed"  /></p>
 
 
 
@@ -141,7 +141,7 @@
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
-### 👉 AI/ML 
+
 
 
  ### 👉 Software & Tools
