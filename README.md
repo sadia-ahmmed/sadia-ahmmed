@@ -186,7 +186,7 @@
   </p>
 </details>
 
-
+<!--
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
@@ -194,7 +194,7 @@
   <br/>
 
 </details>
-
+-->
 <br/>
 
 ## 🙋‍♀️ Let's Connect
