@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Innovator;Blockchain+Enthusiast;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a final-year student pursuing B.Sc in CSE, majoring in Data Science in United International University. I like to Code, Design, Innovate and Experiment with AI based software products. Alongside, my interest lies in AL/ML including natural language processing and multimodal deep learning. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a final-year student pursuing B.Sc in CSE, majoring in Data Science in United International University. I like to Code, Design, Innovate and Experiment with AI based software products. Alongside, my interest lies in AL/ML including natural language processing and multimodal deep learning. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I have been immensely engaged in multidimensional co-curricular activities as the vice president of the largest student organization (UIU Computer Club) of my university. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadia-ahmmed&label=Profile%20views&color=0e75b6&style=plastic" alt="sadia-ahmmed" /> </p> -->
 
@@ -18,6 +18,7 @@
 - Champion of the UIU CSE Department Project Showcase in the Advanced OOP Lab Category
 - Champion of the Hult Prize OnCampus Round
 - 1st Runners-Up of the Programming for Beginners Contest.
+- Academic Merit Scholarships in all semesters
 
 <br>
 
