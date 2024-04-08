@@ -9,8 +9,9 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadia-ahmmed&label=Profile%20views&color=0e75b6&style=plastic" alt="sadia-ahmmed" /> </p> -->
 
 ## ✨ My Achievements 
+- Recipient of Fully funded Exchange Student Program by Global Affairs Canada to Concordia University of Edmonton
 - Champion of the International Blockchain Olympiad 2023
-- 1st Runners up in the Bangladesh Blockchain Olympiad 2023
+- 1st Runners up in the Bangladesh National Blockchain Olympiad 2023
 - Champion of ভাষামূল: মুখের ভাষার খোঁজে, a national NLP challenge on Bengali regional text to IPA
 - Champion of the UIU CSE Department Project Showcase in the Software Engineering Lab Category
 - Champion of the UIU CSE Department Project Showcase in the DMBS Lab Category
